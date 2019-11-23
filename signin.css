@@ -1,0 +1,60 @@
+#form{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 250px;
+
+    border-bottom-style:hidden;
+    border-bottom-left-radius:2px; 
+    border-bottom-right-radius: 2px;
+    border-top-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+
+}
+body{
+    background: url('images/black-1072366.jpg');
+    background-size:cover;
+}
+#form h1{
+    color: white;
+    font-family: Arial;
+    
+}
+#form label{
+    margin: 0 10px 0 20px;
+}
+#butto{
+resize: horizontal;
+    padding-left: 20px;
+padding-right: 20px;
+    width: 250px;
+    margin-left: 145px;
+}
+#importy{
+    margin-top: 0px;
+    padding-top: 10px;
+  
+}
+#newmat{
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    text-shadow: 0 0 10px white;
+    text-align: left;
+}
+#test1{
+    background: #2D3C3C;
+    height: 50px;
+    margin-top: 207px;
+}
+#linkmod{
+    color: white;
+     font-family: Arial;
+    text-shadow: 0 0 10px white;
+    
+}
+#linkmo{
+    color: white;
+     font-family: Arial;
+    font-size: 17px;
+    
+}

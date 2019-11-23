@@ -1,0 +1,65 @@
+#kashish{
+    background:snow;;
+   
+}
+.bg-light{
+    background: url('images/black-1072366.jpg');
+    background-size: cover; 
+}
+#bark{
+    height: 56px;
+    
+}
+ 
+
+#linkmod{
+    color: white;
+     font-family: Arial;
+    text-shadow: 0 0 10px white;
+    
+}
+#linkmo{
+    color: white;
+     font-family: Arial;
+    font-size: 17px;
+    
+}
+#good{
+    margin-left: 175px;
+    
+}
+.mb-3{
+    text-align: center;
+}
+.lead{
+    margin: 10px 100px 10px 100px;
+}
+
+
+#shift{
+    margin-left: 115px;
+}
+#supboi{
+    text-align: center;
+}
+#dc{
+  margin-right: 4px;  
+}
+#paypal{
+  margin-right: 32px;    
+}
+#importy{
+    margin-top: 0px;
+    padding-top: 10px;
+  
+}
+#newmat{
+    font-family: Arial;
+    font-size: 18px;
+    color: white;
+    text-shadow: 0 0 10px white;
+}
+#test1{
+    background: #2D3C3C;
+    height: 50px;
+}
